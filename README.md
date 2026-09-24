@@ -1,54 +1,65 @@
-Hi, I'm Niharika 👋
+# Hi, I'm Niharika 👋
 
 🎓 Final-year Artificial Intelligence & Machine Learning student  
-💻 Interested in Full-Stack Development, AI & Machine Learning  
-🚀 Building practical applications that combine software and AI
+💻 Full-Stack Developer | AI/ML Enthusiast  
+🚀 Interested in building practical, AI-powered applications
 
-🛠️ Tech Stack
+---
 
-Languages
-- Python
-- JavaScript
-- Dart
-- SQL
+## 👩‍💻 About Me
 
-Web & App Development
-- HTML
-- CSS
-- React.js
-- Node.js
-- Flutter
+I'm a final-year AI & ML student with an interest in **Full-Stack Development, Artificial Intelligence, and Machine Learning**.
 
-AI / ML
-- TensorFlow
-- Keras
-- MediaPipe
-- Flask
+I enjoy building projects that combine software development with AI to solve practical, real-world problems. I'm currently strengthening my skills in Data Structures & Algorithms, full-stack development, and modern AI technologies.
 
-Tools & Technologies
-- Git & GitHub
-- REST APIs
-- MySQL
+---
 
+## 🛠️ Technical Skills
 
+### Programming Languages
+`Python` `JavaScript` `Dart` `SQL`
 
-🚀 Featured Projects
+### Web & App Development
+`HTML` `CSS` `React.js` `Node.js` `Flutter`
 
-🏍️ MotoSense AI
-An AI & IoT-based intelligent rider assistance system designed to improve two-wheeler safety.
+### AI / Machine Learning
+`TensorFlow` `Keras` `MediaPipe` `Flask`
 
-Features: Blind-spot detection • Collision warnings • Crash detection • SOS alerts
+### Tools & Technologies
+`Git` `GitHub` `REST APIs` `MySQL`
 
-Tech: React Native • Expo • Arduino • AI/ML
+---
 
+## 🚀 Featured Projects
 
-🤟 MuteMate
-A sign language translation application that uses computer vision and machine learning to translate hand gestures into text.
+### 🏍️ MotoSense AI
 
-Tech: Flutter • Python • Flask • TensorFlow • MediaPipe
+**AI & IoT-Based Intelligent Rider Assistance System for Two-Wheelers**
 
+A rider safety system designed to assist motorcyclists using AI, sensors, and real-time alerts.
 
-🌱 Currently Learning
+**Key Features**
+- Blind-spot detection
+- Front and rear collision warning
+- Crash detection
+- SOS alerts
+- Rider safety analytics
+
+**Technologies:** React Native • Expo • Arduino • AI/ML
+
+---
+
+### 🤟 MuteMate
+
+**Sign Language Translation Application**
+
+A machine-learning-based application that uses computer vision and hand-landmark detection to recognize sign language gestures and translate them into text.
+
+**Technologies:** Flutter • Python • Flask • TensorFlow • MediaPipe
+
+---
+
+## 🌱 Currently Learning
 
 - Data Structures & Algorithms
 - Full-Stack Development
@@ -56,14 +67,22 @@ Tech: Flutter • Python • Flask • TensorFlow • MediaPipe
 - LangChain & LangGraph
 - AI-powered applications
 
+---
 
-📌 Goals
+## 🎯 What I'm Working Towards
 
-I'm currently focused on improving my problem-solving skills, building full-stack projects, and developing practical AI solutions.
+- Building production-ready full-stack applications
+- Developing practical AI/ML solutions
+- Improving problem-solving and DSA skills
+- Exploring Agentic AI and intelligent applications
 
+---
 
+## 📫 Connect With Me
 
-📫 Connect With Me
+- **GitHub:** [@niharikaram2510](https://github.com/niharikaram2510)
+- **LinkedIn:** [www.linkedin.com/in/niharika-rl]
 
-- LinkedIn: [www.linkedin.com/in/niharika-rl]
-- GitHub: [@niharikaram2510](https://github.com/niharikaram2510)
+---
+
+⭐ Feel free to explore my repositories and projects!
